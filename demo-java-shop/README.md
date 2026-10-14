@@ -1,7 +1,7 @@
 # demo-java-shop — Java codebase for the code-ingestion + RCA demo
 
 A small but realistic Java e-commerce service (~30 source files) for demoing Cake's
-`code_structure` ingestion and the `root_cause_analysis` agent.
+`code_structure` ingestion and the `root_cause_analysis` agent. Test123
 
 ## Layout
 
